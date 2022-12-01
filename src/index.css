@@ -5,7 +5,7 @@
 body{
 margin:0;
 /* background: linear-gradient(to  right ,#00AAFF,#00FF6C); */
-background: linear-gradient(to right ,#ef04c1,#0caad6);
+background: linear-gradient(to right ,#f10fc4,#0caad6);
 }
 .calculator-grid{
   display: grid;
